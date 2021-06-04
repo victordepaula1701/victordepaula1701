@@ -5,8 +5,8 @@ I'm a journalist from Brazil, but living in Cork, Ireland. For more than six yea
 
 I'm a really curious person that loves to learn new things and solve problems. And I am always looking for better ways to improve my daily routine and help me to do my best besides to be oriented to create things that could impact positively and help the others.
 
-- 🌱 I'm currently learning more about data with the IBM Data Science Professional Certificate
-- 📫 You can find more about me on my <a href="https://www.linkedin.com/in/victordepaula/?locale=en_US">LinkedIN</a>
+- 🌱  I'm currently learning more about data with the IBM Data Science Professional Certificate
+- 📫  You can find more about me on my <a href="https://www.linkedin.com/in/victordepaula/?locale=en_US">LinkedIN</a>
 <!--
 **victordepaula1701/victordepaula1701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
