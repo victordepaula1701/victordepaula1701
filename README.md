@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-I'm a journalist from Brazil, but living in Cork, Ireland. For more than six years I have been working with Content and Inbound Marketing, but in 2020 I started to learn programming languages to automate some activities in my work and fall in love with the data world! 
-
-I'm a really curious person that loves to learn new things and solve problems. And I am always looking for better ways to improve my daily routine and help me to do my best besides to be oriented to create things that could impact positively and help the others.
+I'm a journalist from Brazil, but living in Cork, Ireland. I’m problem-solver driven to help others to achieve their best. I’m dedicated, curious, persistent and I strongly believe in life long learning. I’m always looking to improve my abilities to give my best, to continue growing and helping everyone who works with me. 
 
 - 🌱  I'm currently learning more about data with the IBM Data Science Professional Certificate
 - 📫  You can find more about me on my <a href="https://www.linkedin.com/in/victordepaula/?locale=en_US">LinkedIN</a>
